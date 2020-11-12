@@ -4,4 +4,15 @@
   background: #1abc9c;
   color: white;
   font-size: 15px;
+  
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(82, 16, 145);
+  color: white;
+  text-align: center;
 }
